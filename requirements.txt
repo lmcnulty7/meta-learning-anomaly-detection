@@ -1,0 +1,10 @@
+# Verified with Python 3.12 (3.12.2). These exact versions reproduce the numbers in README.md.
+scikit-learn==1.8.0
+pandas==2.3.3
+numpy==1.26.4
+scipy==1.17.1
+statsmodels==0.14.1
+
+# Optional: only needed for Autoencoder.ipynb (written for Google Colab with a GPU,
+# where torch is preinstalled). Not needed for meta_learner.py.
+# torch

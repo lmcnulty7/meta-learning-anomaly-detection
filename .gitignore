@@ -1,0 +1,7 @@
+.DS_Store
+data/creditcard.csv
+data/nab_cleaned/
+.claude/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
